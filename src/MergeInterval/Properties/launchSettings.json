@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MergeInterval": {
+      "commandName": "Project",
+      "commandLineArgs": "-c \"C:\\Users\\cwill\\projects\\Daimler\\MergeInterval\\test\\test_data.csv\""
+    }
+  }
+}
