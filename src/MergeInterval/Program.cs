@@ -11,7 +11,7 @@ namespace MergeInterval
     /// <summary>
     /// This is a program to merge intervals sequences and output the resulting interval list on the command line
     /// The source list of intervals can be a string of intervals like "[25,30] [2,19] [14, 23] [4,8]" or it can be
-    /// a cvs file where each line in the file is an interval. Start and end value is separated by a semicolon
+    /// a csv file where each line in the file is an interval. Start and end value is separated by a semicolon
     /// </summary>
     class Program
     {

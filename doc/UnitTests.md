@@ -1,6 +1,6 @@
 ## Running unit tests
 
-To run the unit test, open a command line prompt in the **src/MergeInterval.Logic.Tests** folder and type:
+To run the unit tests, open a command line prompt in the **src/MergeInterval.Logic.Tests** folder and type:
 
 ```
 dotnet test

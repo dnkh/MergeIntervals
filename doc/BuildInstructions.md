@@ -9,7 +9,7 @@ To build the project, open a command line prompt in the src/MergeInterval folder
 ```
 dotnet build -c Release
 ```
-this will restore external dependencies from nuget.org and build referenced libraries and the console app. You will find the output in **bin\Release\net5.0** folder
+this will restore all external dependencies from nuget.org and build referenced libraries and the console app. You will find the output in **bin\Release\net5.0** folder
 
 ### Publish the project
 To publish the project open a command line prompt in the src/MergeInterval folder and type:
