@@ -62,6 +62,19 @@ MergeInterval -s "[25,30] [2,19] [14, 23] [4,8]"
 ## External dependencies
 The project **MergeInterval** has an external dependency to [**CommandLineParser**  project https://github.com/commandlineparser/commandline](https://github.com/commandlineparser/commandline) to get and parse the command line argumeents easily 
  
+
+## Figures
+
+To get some insights about the resource consumption, here are some measured value
+
+| No of intervals | Memory |  CPU  | Duration | CSV file size |
+| --------------- | ------:| ----- | --------:| -------------:|
+| 2 Mio           | 483 MB | 12,4% | 7 sec    | 44,5 MB       |
+| 20 Mio          | 5 GB   | 12,5% | 125 sec  | 444,5 MB      |
+ 
+The measurement was done with Jetbrains dotTrace 
+
+
  ## Further information
 * [Project structure](./doc/ProjectStructure.md)
 * [Coding task description](./doc/Coding-Task.md)
