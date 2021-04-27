@@ -69,8 +69,8 @@ To get some insights about the resource consumption, here are some measured valu
 
 | No of intervals | Memory |  CPU  | Duration | CSV file size |
 | --------------- | ------:| ----- | --------:| -------------:|
-| 2 Mio           | 483 MB | 12,4% | 7 sec    | 44,5 MB       |
-| 20 Mio          | 5 GB   | 12,5% | 125 sec  | 444,5 MB      |
+| 2 Mio           | 483 MB | 12,4% | 3 sec    | 44,5 MB       |
+| 20 Mio          | 5 GB   | 12,5% | 20 sec   | 444,5 MB      |
  
 The measurement was done with Jetbrains dotTrace 
 
