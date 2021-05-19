@@ -53,14 +53,14 @@ dotnet run -- -s "[25,30] [2,19] [14, 23] [4,8]"
 **This is just for testing and you are running a debug version. To get a distributable binary see the [build instructions](./doc/BuildInstructions.md) in the "doc" folder** 
 
 
-If you already build or published binary open a command line prompt in the corresponding folder and call for example:
+If you already build a published binary open a command line prompt in the corresponding folder and call for example:
 ```
 MergeInterval -s "[25,30] [2,19] [14, 23] [4,8]"
 ```
 
 
 ## External dependencies
-The project **MergeInterval** has an external dependency to [**CommandLineParser**  project https://github.com/commandlineparser/commandline](https://github.com/commandlineparser/commandline) to get and parse the command line argumeents easily 
+The project **MergeInterval** has an external dependency to [**CommandLineParser**  project https://github.com/commandlineparser/commandline](https://github.com/commandlineparser/commandline) to get and parse the command line arguments easily 
  
 
 ## Figures
